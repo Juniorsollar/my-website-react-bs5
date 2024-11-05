@@ -39,11 +39,6 @@ function App() {
             </Col>
           </Row>
           <Row>
-            <Card className="text-center bg-secondary text-white my-5 py-4">
-              <Card.Body>This is some text within a card body.</Card.Body>
-            </Card>
-          </Row>
-          <Row>
             <Col>
               <Card style={{ width: "18rem" }}>
                 <Card.Img
