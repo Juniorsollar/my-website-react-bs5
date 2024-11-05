@@ -79,7 +79,9 @@ function App() {
                   <Card.Text>
                     Explore meu GitHub para conhecer meus projetos, acompanhar meu desenvolvimento e trocar ideias sobre tecnologia. Vamos construir algo incrível juntos!
                   </Card.Text>
-                  <Button variant="primary">Go somewhere</Button>
+                  <Button 
+                    href = "https://github.com/Juniorsollar"
+                    variant="outline-dark">GitHub</Button>
                 </Card.Body>
               </Card>
             </Col>
@@ -99,10 +101,11 @@ function App() {
                 <Card.Body>
                   <Card.Title>Consultoria de Hardwares</Card.Title>
                   <Card.Text>
-                    Some quick example text to build on the card title and make
-                    up the bulk of the card's content.
+                    Conheça meu trabalho de consultoria para montagem de computadores! Ofereço orientação completa para escolher os componentes ideais, garantir desempenho e qualidade, além de suporte personalizado. Vamos montar a máquina perfeita para você!
                   </Card.Text>
-                  <Button variant="primary">Go somewhere</Button>
+                  <Button 
+                    href = "https://www.instagram.com/alessandrosollar/"
+                    variant="outline-light">Consultoria</Button>{' '}
                 </Card.Body>
               </Card>
             </Col>
