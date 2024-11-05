@@ -101,7 +101,7 @@ function App() {
                 <Card.Body>
                   <Card.Title>Consultoria de Hardwares</Card.Title>
                   <Card.Text>
-                    Consultoria para montagem de computadores! Orientação completa para escolher os componentes ideais, garantir desempenho e qualidade, além de suporte personalizado.
+                    Orientação completa para escolher os componentes ideais, garantir desempenho e qualidade, além de suporte personalizado.
                   </Card.Text>
                   <Button 
                     href = "https://www.instagram.com/alessandrosollar/"
